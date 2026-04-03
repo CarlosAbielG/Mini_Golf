@@ -97,3 +97,14 @@ InitTestScene*.unity*
 
 # Auto-generated scenes by play mode tests
 /[Aa]ssets/[Ii]nit[Tt]est[Ss]cene*.unity*
+
+
+/UniGolf/[Ll]ibrary/
+/UniGolf/[Tt]emp/
+/UniGolf/[Oo]bj/
+/UniGolf/[Bb]uild/
+/UniGolf/[Bb]uilds/
+/UniGolf/[Ll]ogs/
+/UniGolf/[Uu]ser[Ss]ettings/
+/UniGolf/[Mm]emoryCaptures/
+/UniGolf/.vs/
